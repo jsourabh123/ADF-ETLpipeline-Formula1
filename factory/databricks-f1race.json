@@ -1,0 +1,9 @@
+{
+	"name": "databricks-f1race",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b97f9ab3-03cc-41d0-ade0-515776c42881",
+		"tenantId": "40348e03-43a1-408a-a175-75639a195dfc"
+	}
+}
